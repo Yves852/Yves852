@@ -1,5 +1,5 @@
-### Hi there, I am Yves Thirion 👋
-#### Junior web developer 
+## Hi there, I am Yves Thirion 👋
+### Junior web developer in Belgium 
 
 - 🔭 I’m currently working on ReactJS
 - 🌱 I’m currently learning VueJS
