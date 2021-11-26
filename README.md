@@ -14,7 +14,7 @@
 [![nodejs](https://user-images.githubusercontent.com/86199387/143565720-0c4915b3-4728-45f1-9a41-53cf5dbada86.png)](https://nodejs.dev/)
 [![mysql](https://user-images.githubusercontent.com/86199387/143565730-df9dad1c-a15f-477a-8408-bbc45a39175d.png)](https://www.mysql.com/)
 - - - -
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yves852&layout=compact)](https://github.com/Yves852/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yves852&layout=compact&theme=tokyonight)](https://github.com/Yves852/github-readme-stats)
 
 [![Linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/yves-thirion/)
 
