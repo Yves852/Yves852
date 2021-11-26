@@ -5,6 +5,18 @@
 - 🌱 I’m currently learning VueJS
 - Reach me at **thirion.yves@gmail.com**
 
+[![Linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/yves-thirion/)
+
+## Some project I worked on 
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=corentinIstace&repo=tree_lidge-game&theme=tokyonight)](https://github.com/corentinIstace/tree_lidge-game)
+> Try the demo version of [Tree Lidge game](https://treelidgegame.herokuapp.com)! Use **login** `demo@demo.com` and **password** `demo1` :fallen_leaf:
+<br />
+
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Yves852&repo=dj-project&theme=tokyonight)](https://github.com/Yves852/dj-project)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Yves852&repo=react-pomodoro&theme=tokyonight)](https://github.com/Yves852/react-pomodoro)
+- - - -
 
 #### ⚡ Languages and tools
 [![html](https://user-images.githubusercontent.com/86199387/143565683-1cb7ca3c-bf40-4416-8693-0e112453717d.png)](https://www.w3schools.com/html/)
@@ -13,10 +25,11 @@
 [![react](https://user-images.githubusercontent.com/86199387/143565910-a09bfbb3-02cc-434d-af84-d4faee6a2f99.png)](https://en.reactjs.org/)
 [![nodejs](https://user-images.githubusercontent.com/86199387/143565720-0c4915b3-4728-45f1-9a41-53cf5dbada86.png)](https://nodejs.dev/)
 [![mysql](https://user-images.githubusercontent.com/86199387/143565730-df9dad1c-a15f-477a-8408-bbc45a39175d.png)](https://www.mysql.com/)
-- - - -
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yves852&layout=compact&theme=tokyonight)](https://github.com/Yves852/github-readme-stats)
 
-[![Linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/yves-thirion/)
+
 
 <!--
 **Yves852/Yves852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
