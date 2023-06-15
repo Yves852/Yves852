@@ -1,11 +1,7 @@
 ## Hi there, I am Yves Thirion 👋
 ### Junior web developer in Belgium 
 
-- 🔭 I’m currently working on ReactJS
-- 🌱 I’m currently learning VueJS
-- Reach me at **thirion.yves@gmail.com**
-
-[![Linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/yves-thirion/)
+Reach me at **thirion.yves@gmail.com**
 
 ## Some project I worked on 
 
