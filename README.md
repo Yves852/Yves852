@@ -7,9 +7,6 @@ Reach me at **thirion.yves@gmail.com**
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=corentinIstace&repo=tree_lidge-game&theme=tokyonight)](https://github.com/corentinIstace/tree_lidge-game)
 <br />
-> [![Tree Lidge](https://user-images.githubusercontent.com/86199387/143602128-6ec99d73-ffba-4361-9fc4-dd80aa6b5144.png)](https://treelidgegame.herokuapp.com/) 
-> Try the demo version of <a href="https://treelidgegame.herokuapp.com">Tree Lidge game</a>! Use <b>login</b> `demo@demo.com` and <b>password</b> `demo1`
-<br />
 
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Yves852&repo=dj-project&theme=tokyonight)](https://github.com/Yves852/dj-project)
