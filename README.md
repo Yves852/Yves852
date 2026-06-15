@@ -1,7 +1,14 @@
 ## Hi there, I am Yves 👋
-### Junior web developer in Belgium 
+### Web developer in Belgium 
 
-Currently employed. 
+Currently looking for a job (partial or full time). 
+
+- Nuxt
+- Tailwind
+- Git
+- Python
+
+📫 thirion.yves@gmail.com
 
 <!--
 **Yves852/Yves852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
